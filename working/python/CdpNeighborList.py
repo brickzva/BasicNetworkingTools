@@ -1,8 +1,8 @@
 from easysnmp import Session
 
 '''
-EasySnmp does support SNMPv1/v2c/3 implimentations.  
-This was a simple test of using a common SNMPv2c implimentation.
+EasySnmp does support SNMPv1/v2c/3 implementations.  
+This was a simple test of using a common SNMPv2c implementation.
 From CLI example output:
 Give me an IP to search for neighbors: 192.168.1.2
 ----------
